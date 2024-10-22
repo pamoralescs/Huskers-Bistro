@@ -31,11 +31,11 @@ Huskers-Bistro is an easy-to-use food ordering application that allows users to 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/AVarvil/Group-12---361-MVC-Capstone.git`
+1. Clone the repository: `https://github.com/pamoralescs/Huskers-Bistro.git`
 2. Open the solution in Visual Studio.
 3. Start the solution.
 4. The application should be running at `http://localhost:5064`.
-5. Navigate to the project directory: `cd .\Group-12---361-MVC-Capstone\Group12\View`
+5. Navigate to the project directory: `cd .\Huskers-Bistro\Group12\View`
 6. Install dependencies: `npm install`
 7. Start the development server: `npm run start`
 8. Access the application at `http://localhost:3000`
