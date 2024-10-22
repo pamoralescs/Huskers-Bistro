@@ -1,0 +1,79 @@
+
+
+.nebraska-logo {
+    height: 50px;
+}
+
+.input-box {
+    width: 25% !important;
+}
+
+body {
+    background-color: #F7F7E7 !important;
+}
+
+#navbar {
+    background-color: #D00000 !important;
+}
+
+#collapsible-nav-dropdown {
+    color: #F7F7E7;
+    background-color: #D00000 !important;
+}
+
+#button {
+    font-weight: bolder;
+    background-color: #D00000 !important;
+    border-color: #F7F7E7;
+    color: white;
+}
+
+#feedback {
+    font-size: x-small;
+    align-content: center !important;
+}
+
+#navtext {
+    color: #F7F7E7;
+    background-color: #D00000 !important;
+    font-weight: bolder;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-text {
+    flex-grow: 1;
+}
+
+.carousel img {
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+}
+
+#login-label {
+    font-size: 30px;
+}
+
+#registration-label {
+    font-size: 30px;
+}
+
+.custom-dropdown .dropdown-menu {
+    background-color: #D00000;
+}
+
+.cart-image-size {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
